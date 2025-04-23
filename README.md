@@ -1,7 +1,11 @@
-# Aggregata Workflow Executor
+# Aggregata Session Manager
+
+## What is Aggregata?
+
+Aggregata is a decentralized data generation and validation protocol developed by Gata.xyz. It leverages community participation to create and curate high-quality datasets used to train state-of-the-art AI models, particularly in the field of vision-language understanding. Through the Aggregata platform, users can engage in tasks like validating image-caption pairs, helping ensure that the data used in AI training is accurate, diverse, and human-aligned. By incentivizing contributions through token rewards, Aggregata aims to democratize the data supply chain for frontier artificial intelligence systems.
 
 ## Description
-The Aggregata Workflow Executor is a utility designed to manage authenticated interactions across multiple user sessions within a web-based dashboard. It automates session initiation, navigates to task-specific interfaces, and executes predefined workflows. Designed for scalability, it supports multi-account environments and proxy routing for distributed operations.
+The Aggregata Session Manager is a utility designed to manage authenticated interactions across multiple user sessions within a web-based dashboard. It automates session initiation, navigates to task-specific interfaces, and executes predefined workflows. Designed for scalability, it supports multi-account environments and proxy routing for distributed operations.
 
 ## Features
 - **Multi-Session Management**: Automates execution across several authenticated sessions.
