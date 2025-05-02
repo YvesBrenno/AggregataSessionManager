@@ -4,7 +4,7 @@
 The Gata Auto Bot is an automated script designed to interact with the Gata.xyz website. It automates the login process using credentials from multiple accounts, navigates to the Data Agent (DVA) task page, and automatically initiates tasks. This bot is particularly useful for users who want to maintain active sessions and perform tasks automatically across multiple accounts at once. Proxy support enables the bot to run under different IPs, circumventing potential limitations or blocks due to heavy usage.
 
 ## Features
-- **Multiple Account Support**: Manages and executes tasks across several accounts simultaneously.
+- **Multiple Sessions Support**: Manages and executes tasks across several accounts simultaneously.
 - **Task Automation**: Automatically navigates to and initiates required tasks.
 - **Proxy Support**: Ability to use different proxies for each account, enhancing the bot’s security and effectiveness.
 - **Screenshot and Debug Logging**: Saves screenshots and detailed logs for error checking or status verification.
